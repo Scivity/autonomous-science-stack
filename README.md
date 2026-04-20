@@ -162,6 +162,16 @@ Autonomous systems generate more data, configurations, and artifacts than humans
 
 | Library | Description | Link |
 | --- | --- | --- |
+| Pachyderm | Kubernetes-native pipelines with immutable data versioning and lineage across pipeline stages. | [github.com/pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) |
+| lakeFS | Git-like branching and time travel over object stores for data-lake version control. | [github.com/treeverse/lakeFS](https://github.com/treeverse/lakeFS) |
+| Great Expectations | Declarative data-quality framework with expectations, profiling, and automated docs. | [github.com/great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) |
+| Evidently AI | Library for data and ML model validation, drift detection, and monitoring reports. | [github.com/evidentlyai/evidently](https://github.com/evidentlyai/evidently) |
+| Deepchecks | Open-source testing for data and ML models covering integrity, drift, and performance. | [github.com/deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) |
+| pytest | Python testing framework with fixtures, parametrization, and a plugin ecosystem. | [github.com/pytest-dev/pytest](https://github.com/pytest-dev/pytest) |
+| Hypothesis | Property-based testing for Python that auto-generates edge-case inputs. | [github.com/HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) |
+| Nix | Purely functional package manager for reproducible, declarative environments. | [github.com/NixOS/nix](https://github.com/NixOS/nix) |
+| GNU Guix | Reproducible, transactional package manager with a focus on scientific workflows. | [guix.gnu.org](https://guix.gnu.org/) |
+| Pixi | Rust-based cross-platform package manager built on the conda ecosystem with workspace lockfiles. | [github.com/prefix-dev/pixi](https://github.com/prefix-dev/pixi) |
 
 ---
 
