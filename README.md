@@ -143,6 +143,16 @@ Tracking tools log metrics, parameters, artifacts, and code versions so experime
 
 | Library | Description | Link |
 | --- | --- | --- |
+| MLflow | Open-source tracking, model registry, and deployment framework with a large integration ecosystem. | [github.com/mlflow/mlflow](https://github.com/mlflow/mlflow) |
+| Weights & Biases | Hosted tracking, artifact, and sweep service with deep SDK integration across frameworks. | [github.com/wandb/wandb](https://github.com/wandb/wandb) |
+| Neptune.ai | Tracker built for foundation-model training with per-layer metrics and long-run logging. | [github.com/neptune-ai/neptune-client](https://github.com/neptune-ai/neptune-client) |
+| Comet | Experiment tracking and LLM evaluation platform with open-source Opik for LLM observability. | [comet.com](https://www.comet.com/) |
+| Aim | Self-hosted open-source tracker with a fast UI for comparing thousands of runs. | [github.com/aimhubio/aim](https://github.com/aimhubio/aim) |
+| ClearML | End-to-end platform spanning experiment tracking, data management, agents, and serving. | [github.com/clearml/clearml](https://github.com/clearml/clearml) |
+| Sacred | Lightweight Python library for configuring, organizing, and logging reproducible experiments. | [github.com/IDSIA/sacred](https://github.com/IDSIA/sacred) |
+| DVC | Git-based data and model versioning with experiment tracking and pipeline DAGs. | [github.com/iterative/dvc](https://github.com/iterative/dvc) |
+| TensorBoard | TensorFlow's local metric and graph visualization tool, also used with PyTorch and JAX. | [github.com/tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) |
+| Optuna | Hyperparameter optimization framework with pruning, distributed trials, and tracker integrations. | [github.com/optuna/optuna](https://github.com/optuna/optuna) |
 
 ---
 
