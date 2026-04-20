@@ -313,6 +313,16 @@ Beyond traditional infra monitoring, autonomous-science systems need traces acro
 
 | Tool | Description | Link |
 | --- | --- | --- |
+| Prometheus | Pull-based time-series monitoring system with a powerful query language and alerting. | [github.com/prometheus/prometheus](https://github.com/prometheus/prometheus) |
+| Grafana | Open-source dashboarding tool that plots metrics, logs, and traces across datasources. | [github.com/grafana/grafana](https://github.com/grafana/grafana) |
+| Loki | Horizontally scalable log aggregation system with a label-based query model similar to Prometheus. | [github.com/grafana/loki](https://github.com/grafana/loki) |
+| OpenTelemetry | CNCF standard for traces, metrics, and logs with SDKs and collectors across languages. | [github.com/open-telemetry](https://github.com/open-telemetry) |
+| Jaeger | CNCF distributed tracing platform for investigating latency in microservice architectures. | [github.com/jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) |
+| Helicone | Open-source LLM observability and AI gateway with tracing, costs, and prompt management. | [github.com/Helicone/helicone](https://github.com/Helicone/helicone) |
+| LangSmith | LangChain's hosted platform for agent tracing, evaluation, and prompt management. | [langchain.com/langsmith](https://www.langchain.com/langsmith) |
+| Arize Phoenix | OpenTelemetry-based AI observability with tracing, eval, datasets, and experiments. | [github.com/Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) |
+| Opik | Comet's open-source LLM observability tool with tracing, automated evaluations, and dashboards. | [github.com/comet-ml/opik](https://github.com/comet-ml/opik) |
+| Langfuse | Self-hostable LLM engineering platform with tracing, prompt management, and datasets. | [github.com/langfuse/langfuse](https://github.com/langfuse/langfuse) |
 
 ---
 
