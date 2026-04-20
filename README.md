@@ -276,6 +276,16 @@ Lab instruments, compute jobs, and agents emit events that need routing, bufferi
 
 | Tool | Description | Link |
 | --- | --- | --- |
+| NATS | High-performance cloud-native messaging system with JetStream for durable streams and KV. | [github.com/nats-io/nats-server](https://github.com/nats-io/nats-server) |
+| Apache Kafka | Distributed log-based event streaming platform with an enormous connector ecosystem. | [github.com/apache/kafka](https://github.com/apache/kafka) |
+| RabbitMQ | AMQP-centric broker for traditional messaging patterns like work queues and routing. | [github.com/rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) |
+| Redis Streams | Append-only log data structure built into Redis with consumer groups. | [redis.io streams](https://redis.io/docs/latest/develop/data-types/streams/) |
+| Apache Pulsar | Pub/sub and queue system with tiered storage and geo-replication built in. | [github.com/apache/pulsar](https://github.com/apache/pulsar) |
+| ZeroMQ | Embeddable messaging library for low-latency socket-level patterns. | [github.com/zeromq/libzmq](https://github.com/zeromq/libzmq) |
+| Celery | Python distributed task queue with a broker-based backend, common in lab automation backends. | [github.com/celery/celery](https://github.com/celery/celery) |
+| Apache Flink | Stateful stream-processing engine with exactly-once semantics and event-time windows. | [github.com/apache/flink](https://github.com/apache/flink) |
+| Apache Beam | Unified programming model for batch and streaming pipelines across multiple runners. | [github.com/apache/beam](https://github.com/apache/beam) |
+| Redpanda | Kafka-API-compatible streaming platform written in C++ with no ZooKeeper dependency. | [github.com/redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) |
 
 ---
 
