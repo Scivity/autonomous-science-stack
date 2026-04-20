@@ -181,6 +181,16 @@ Before running an experiment, an autonomous agent needs to know what's already b
 
 | Tool | Description | Link |
 | --- | --- | --- |
+| Semantic Scholar API | Free API from Allen AI over hundreds of millions of papers, with paper search, citations, and recommendations. | [api.semanticscholar.org](https://api.semanticscholar.org/) |
+| arXiv API | Official query API over arXiv's preprint corpus, returning Atom/XML metadata. | [info.arxiv.org/help/api](https://info.arxiv.org/help/api/index.html) |
+| OpenAlex | Open catalog of the global research system with a free, no-auth REST API over works, authors, and venues. | [openalex.org](https://openalex.org/) |
+| Zotero | Open-source reference manager with a web API, browser connectors, and a Python client. | [github.com/zotero/zotero](https://github.com/zotero/zotero) |
+| Paperpile | Cloud-based reference manager for Google Docs and the web with an API for library access. | [paperpile.com](https://paperpile.com/) |
+| Connected Papers | Graph-based visual explorer that surfaces similar papers via co-citation and bibliographic coupling. | [connectedpapers.com](https://www.connectedpapers.com/) |
+| Elicit | AI research assistant with paper search, data extraction, and systematic-review workflows. | [elicit.com](https://elicit.com/) |
+| Consensus | Evidence-focused search engine over peer-reviewed literature with a Consensus Meter for agreement. | [consensus.app](https://consensus.app/) |
+| ScholarAI | Research assistant over 200M+ papers and patents with citation generation and Zotero sync. | [scholarai.io](https://scholarai.io) |
+| Scite | Smart Citations platform classifying citations as supporting, contrasting, or mentioning. | [scite.ai](https://scite.ai/) |
 
 ---
 
