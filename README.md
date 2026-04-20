@@ -40,6 +40,18 @@ Orchestrators schedule long-running, failure-prone scientific workflows — thin
 
 | Library | Description | Link |
 | --- | --- | --- |
+| Prefect | Python workflow orchestrator with dynamic task graphs, typed results, and work-pool-based deployment. | [github.com/PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) |
+| Apache Airflow | DAG-based scheduler with a large operator ecosystem, used widely for batch data pipelines. | [github.com/apache/airflow](https://github.com/apache/airflow) |
+| Dagster | Asset-oriented orchestrator with typed inputs and outputs, software-defined assets, and testable pipelines. | [github.com/dagster-io/dagster](https://github.com/dagster-io/dagster) |
+| Nextflow | Dataflow workflow language widely used in bioinformatics, with first-class HPC and container support. | [github.com/nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) |
+| Snakemake | Python-like rules engine for reproducible scientific workflows, common in genomics. | [github.com/snakemake/snakemake](https://github.com/snakemake/snakemake) |
+| Metaflow | Netflix's human-centric framework for data science workflows with versioning and AWS/K8s backends. | [github.com/Netflix/metaflow](https://github.com/Netflix/metaflow) |
+| Argo Workflows | Kubernetes-native workflow engine where each step runs in its own container. | [github.com/argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) |
+| Luigi | Spotify's Python module for building complex batch pipelines with dependency resolution. | [github.com/spotify/luigi](https://github.com/spotify/luigi) |
+| Kedro | Python framework for reproducible, modular data science pipelines with a catalog abstraction. | [github.com/kedro-org/kedro](https://github.com/kedro-org/kedro) |
+| Flyte | Kubernetes-native orchestrator for typed, reproducible ML and data pipelines. | [github.com/flyteorg/flyte](https://github.com/flyteorg/flyte) |
+| Temporal | Durable execution platform for long-running workflows with retries and versioning as primitives. | [github.com/temporalio/temporal](https://github.com/temporalio/temporal) |
+| Kubeflow Pipelines | ML workflow system for portable, scalable pipelines on Kubernetes. | [github.com/kubeflow/pipelines](https://github.com/kubeflow/pipelines) |
 
 ---
 
