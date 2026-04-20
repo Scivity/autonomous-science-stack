@@ -242,11 +242,10 @@ Reinforcement learning fits scientific problems where the agent must choose sequ
 | CleanRL | Single-file PyTorch RL implementations used widely for reproducible benchmarks and teaching. | [github.com/vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) |
 | TRL | Hugging Face library for RLHF, DPO, PPO, and GRPO fine-tuning of language models. | [github.com/huggingface/trl](https://github.com/huggingface/trl) |
 | Ray RLlib | Distributed RL library inside Ray with a large algorithm zoo and offline-RL support. | [github.com/ray-project/ray](https://github.com/ray-project/ray) |
-| Acme | DeepMind's JAX/TF RL library of composable components and agent implementations. | [github.com/google-deepmind/acme](https://github.com/google-deepmind/acme) |
 | Tianshou | PyTorch RL library with modular agents, on-policy and off-policy algorithms, and offline RL. | [github.com/thu-ml/tianshou](https://github.com/thu-ml/tianshou) |
 | Sample Factory | High-throughput async PPO library optimized for single-machine, multi-GPU training. | [github.com/alex-petrenko/sample-factory](https://github.com/alex-petrenko/sample-factory) |
 | PettingZoo | Multi-agent environment API and environment zoo from the Farama Foundation. | [github.com/Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) |
-| Dopamine | Google's compact RL research framework with JAX implementations of DQN, Rainbow, and IQN. | [github.com/google/dopamine](https://github.com/google/dopamine) |
+| PFRL | PyTorch-based deep RL library from Preferred Networks with a suite of modern algorithms. | [github.com/pfnet/pfrl](https://github.com/pfnet/pfrl) |
 
 ---
 
