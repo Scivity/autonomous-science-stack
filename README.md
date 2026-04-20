@@ -205,7 +205,7 @@ Most scientific knowledge is trapped in PDFs with tables, equations, and figures
 | GROBID | Java machine-learning library that structures scholarly PDFs into TEI XML with high accuracy on references. | [github.com/kermitt2/grobid](https://github.com/kermitt2/grobid) |
 | Marker | Fast PDF and office-doc to Markdown/JSON converter with optional LLM-assisted refinement. | [github.com/datalab-to/marker](https://github.com/datalab-to/marker) |
 | Nougat | Meta's vision transformer for converting scientific PDFs to Markdown with equation support. | [github.com/facebookresearch/nougat](https://github.com/facebookresearch/nougat) |
-| Tabula | Java and Python tool for extracting tables from text-based PDFs using layout heuristics. | [github.com/tabulapdf/tabula](https://github.com/tabulapdf/tabula) |
+| tabula-py | Maintained Python wrapper around Tabula for extracting tables from text-based PDFs. | [github.com/chezou/tabula-py](https://github.com/chezou/tabula-py) |
 | Camelot | Python library focused on extracting tables from PDFs with stream and lattice parsers. | [github.com/camelot-dev/camelot](https://github.com/camelot-dev/camelot) |
 | Unstructured | ETL library for partitioning, cleaning, and chunking 25+ document types for LLM pipelines. | [github.com/Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) |
 | pdfplumber | Pure-Python PDF parser with fine-grained access to characters, tables, and layout metadata. | [github.com/jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) |
