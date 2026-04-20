@@ -124,6 +124,16 @@ On-demand GPU platforms spare you from standing up Kubernetes just to run a fine
 
 | Platform | Description | Link |
 | --- | --- | --- |
+| RunPod | Community and secure GPU cloud with on-demand pods and serverless endpoints that scale to zero. | [runpod.io](https://www.runpod.io/) |
+| Modal | Serverless Python platform that provisions GPU containers from decorators in under a second. | [modal.com](https://modal.com/) |
+| Lambda | GPU cloud focused on H100 and Blackwell clusters with pre-installed ML frameworks and bare metal. | [lambda.ai](https://lambda.ai/) |
+| Vast.ai | Marketplace for renting community GPUs at spot-style prices. | [vast.ai](https://vast.ai/) |
+| CoreWeave | Hyperscale NVIDIA-specialized cloud offering H100/B200 clusters and high-throughput networking. | [coreweave.com](https://www.coreweave.com/) |
+| Paperspace (DigitalOcean) | GPU notebooks and droplets folded into DigitalOcean's AI platform. | [paperspace.com](https://www.paperspace.com/) |
+| Lightning AI | Studio-based cloud workspaces on H100/H200 with persistent environments and multi-GPU training. | [lightning.ai](https://lightning.ai/) |
+| Anyscale | Managed Ray platform for distributed training, batch inference, and serving on GPU clusters. | [anyscale.com](https://www.anyscale.com/) |
+| Together AI | GPU cloud and inference API focused on open models, fine-tuning, and low-latency serving. | [together.ai](https://www.together.ai/) |
+| Replicate | Hosted inference for open-source models with a simple HTTP API and per-second billing. | [replicate.com](https://replicate.com/) |
 
 ---
 
