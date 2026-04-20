@@ -257,6 +257,16 @@ Retrieval-augmented agents need a vector store for papers, protocols, lab notes,
 
 | Tool | Description | Link |
 | --- | --- | --- |
+| Qdrant | Rust-based vector database with filtering, quantization, and a managed cloud option. | [github.com/qdrant/qdrant](https://github.com/qdrant/qdrant) |
+| Weaviate | Vector database with built-in hybrid search, modules for embeddings, and GraphQL API. | [github.com/weaviate/weaviate](https://github.com/weaviate/weaviate) |
+| Milvus | High-scale open-source vector database with GPU-accelerated index types. | [github.com/milvus-io/milvus](https://github.com/milvus-io/milvus) |
+| Chroma | Embedded and server vector database focused on developer ergonomics for RAG apps. | [github.com/chroma-core/chroma](https://github.com/chroma-core/chroma) |
+| Pinecone | Managed serverless vector database with hybrid search and metadata filtering. | [pinecone.io](https://www.pinecone.io/) |
+| FAISS | Meta's library for efficient similarity search and clustering of dense vectors. | [github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss) |
+| LanceDB | Serverless vector database built on the Lance columnar format for multimodal search. | [github.com/lancedb/lancedb](https://github.com/lancedb/lancedb) |
+| pgvector | PostgreSQL extension that adds vector types, HNSW/IVF indexing, and ANN search. | [github.com/pgvector/pgvector](https://github.com/pgvector/pgvector) |
+| sentence-transformers | Python library for dense sentence and passage embeddings on top of Hugging Face models. | [github.com/UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) |
+| BAAI bge-m3 | Multi-lingual multi-function embedding model that handles dense, sparse, and ColBERT-style retrieval. | [huggingface.co/BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3) |
 
 ---
 
