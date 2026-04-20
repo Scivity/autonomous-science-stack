@@ -104,6 +104,17 @@ Everything physical bolts onto this layer — pipetting robots, plate readers, m
 
 | Library | Description | Link |
 | --- | --- | --- |
+| opcua-asyncio | Asyncio-based OPC UA client and server for Python, common in industrial and lab PLC integration. | [github.com/FreeOpcUa/opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) |
+| PyVISA | Python bindings to the VISA standard for controlling test and measurement instruments over GPIB, USB, or serial. | [github.com/pyvisa/pyvisa](https://github.com/pyvisa/pyvisa) |
+| paho-mqtt (Python) | Eclipse Paho MQTT client for Python, used for lightweight pub/sub between lab devices and controllers. | [github.com/eclipse/paho.mqtt.python](https://github.com/eclipse/paho.mqtt.python) |
+| Eclipse Mosquitto | Open-source MQTT broker often deployed as the message bus inside automated labs. | [github.com/eclipse/mosquitto](https://github.com/eclipse/mosquitto) |
+| LabVIEW | National Instruments' graphical programming environment for instrument control and DAQ. | [ni.com/labview](https://www.ni.com/en/shop/labview.html) |
+| Opentrons | Python API and firmware for the OT-2 and Flex liquid-handling robots. | [github.com/Opentrons/opentrons](https://github.com/Opentrons/opentrons) |
+| PyLabRobot | Hardware-agnostic Python SDK for liquid handlers, plate readers, heater-shakers, and scales. | [github.com/PyLabRobot/pylabrobot](https://github.com/PyLabRobot/pylabrobot) |
+| SiLA 2 Python | Python implementation of the SiLA 2 gRPC-based lab instrument interoperability standard. | [gitlab.com/SiLA2/sila_python](https://gitlab.com/SiLA2/sila_python) |
+| Labman Automation | Commercial systems integrator that built Berkeley's A-Lab synthesis robot and similar custom platforms. | [labmanautomation.com](https://www.labmanautomation.com/) |
+| ROS 2 | Robot Operating System with DDS-based middleware for real-time control of robotic cells and mobile platforms. | [github.com/ros2](https://github.com/ros2) |
+| Bluesky | Python experiment-control framework for synchrotrons and scattering beamlines, used across NSLS-II. | [github.com/bluesky/bluesky](https://github.com/bluesky/bluesky) |
 
 ---
 
