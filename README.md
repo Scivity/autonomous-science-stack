@@ -295,6 +295,15 @@ When agents can call tools that move real money, compounds, or lab hardware, you
 
 | Tool | Description | Link |
 | --- | --- | --- |
+| Guardrails AI | Python framework for structured output validation and input/output guards via reusable validators. | [github.com/guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) |
+| NeMo Guardrails | NVIDIA toolkit for adding programmable rails to LLM apps via the Colang dialog language. | [github.com/NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) |
+| LLM Guard | Protect AI's prompt and output scanner covering toxicity, PII, secrets, and prompt injection. | [github.com/protectai/llm-guard](https://github.com/protectai/llm-guard) |
+| NVIDIA Garak | LLM vulnerability scanner that probes for jailbreaks, hallucination, and prompt injection. | [github.com/NVIDIA/garak](https://github.com/NVIDIA/garak) |
+| DeepTeam | LLM red-teaming framework with 40+ vulnerability scanners and OWASP-aligned test suites. | [github.com/confident-ai/deepteam](https://github.com/confident-ai/deepteam) |
+| Lakera Guard | Commercial real-time API for detecting prompt injection, jailbreaks, and data exfiltration. | [lakera.ai](https://www.lakera.ai/lakera-guard) |
+| Invariant | Rule-based contextual guardrails for LLM and MCP tool-calling deployed as a proxy. | [github.com/invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) |
+| LlamaFirewall | Meta's agent guardrail framework combining PromptGuard 2, alignment checks, and CodeShield. | [github.com/meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) |
+| PyRIT | Microsoft's Python risk-identification toolkit for automated adversarial testing of generative AI. | [github.com/Azure/PyRIT](https://github.com/Azure/PyRIT) |
 
 ---
 
