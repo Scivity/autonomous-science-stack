@@ -94,7 +94,6 @@ These are operational self-driving laboratories and companies — not libraries,
 | PNNL Autonomous Science | DOE program applying autonomous-lab methods across chemistry, biology, and energy storage at PNNL. | [pnnl.gov/autonomous-science](https://www.pnnl.gov/autonomous-science) |
 | Lila Sciences | Flagship Pioneering company building closed-loop AI Science Factories across life, chemical, and materials science. | [lila.ai](https://www.lila.ai/) |
 | Argonne Polybot | Autonomous robotic platform for electronic-polymer discovery at Argonne's Center for Nanoscale Materials. | [anl.gov polybot](https://www.anl.gov/article/argonnes-selfdriving-lab-accelerates-the-discovery-process-for-materials-with-multiple-applications) |
-| ARES OS (AFRL) | Open-source orchestration software from the Air Force Research Laboratory for building autonomous experimentation systems. | [github.com/AFRL-ARES/ARES_OS](https://github.com/AFRL-ARES/ARES_OS) |
 
 ---
 
