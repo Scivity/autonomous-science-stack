@@ -61,6 +61,19 @@ Multi-agent frameworks coordinate LLM-driven workers that plan, call tools, and 
 
 | Library | Description | Link |
 | --- | --- | --- |
+| LangGraph | Graph-based agent runtime from LangChain with checkpoints, streaming, and human-in-the-loop primitives. | [github.com/langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) |
+| CrewAI | Role-based multi-agent framework that assembles specialized agents into crews with shared tasks. | [github.com/crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) |
+| AutoGen | Microsoft's framework for multi-agent conversations with pluggable model backends and code execution. | [github.com/microsoft/autogen](https://github.com/microsoft/autogen) |
+| Swarms | Multi-agent orchestration framework with hierarchical, concurrent, and mixture-of-agents structures. | [github.com/kyegomez/swarms](https://github.com/kyegomez/swarms) |
+| CAMEL | Research-oriented multi-agent framework focused on role-playing agents and agent-scaling studies. | [github.com/camel-ai/camel](https://github.com/camel-ai/camel) |
+| Agno | Stateless Python agent runtime with memory, knowledge, and a focus on low-latency instantiation. | [github.com/agno-agi/agno](https://github.com/agno-agi/agno) |
+| smolagents | Hugging Face's minimal agent library centered on code-writing agents. | [github.com/huggingface/smolagents](https://github.com/huggingface/smolagents) |
+| PydanticAI | Typed agent framework that uses Pydantic schemas for inputs, outputs, and tool calls. | [github.com/pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) |
+| OpenAI Agents SDK | OpenAI's Python SDK for building agents with handoffs, guardrails, and tracing. | [github.com/openai/openai-agents-python](https://github.com/openai/openai-agents-python) |
+| Claude Agent SDK | Anthropic's SDK for building agents on top of Claude with hooks, subagents, and custom tools. | [github.com/anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) |
+| BeeAI Framework | IBM-backed framework for building agents in Python and TypeScript with MCP and A2A support. | [github.com/i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) |
+| Atomic Agents | Lightweight framework built around typed input/output schemas and composable atomic agents. | [github.com/BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) |
+| Langroid | Multi-agent Python framework with first-class tools, vector stores, and message-provenance logging. | [github.com/langroid/langroid](https://github.com/langroid/langroid) |
 
 ---
 
