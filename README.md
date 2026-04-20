@@ -219,6 +219,16 @@ These are models and agent systems specifically designed for scientific reasonin
 
 | Model / System | Description | Link |
 | --- | --- | --- |
+| Sakana AI Scientist v2 | End-to-end agentic system that generates ideas, runs experiments, and drafts papers via agentic tree search. | [github.com/SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) |
+| FunSearch | DeepMind method pairing LLM program search with an evaluator, used to find new cap-set and bin-packing solutions. | [github.com/google-deepmind/funsearch](https://github.com/google-deepmind/funsearch) |
+| ChemCrow | LangChain-based chemistry agent with 18 tool integrations for synthesis planning and molecule property lookup. | [github.com/ur-whitelab/chemcrow-public](https://github.com/ur-whitelab/chemcrow-public) |
+| Coscientist | GPT-4-driven autonomous chemistry agent from the Gomes group, demonstrated on palladium cross-couplings. | [github.com/gomesgroup/coscientist](https://github.com/gomesgroup/coscientist) |
+| DARWIN | Open 7B foundation model fine-tuned on physics, chemistry, and materials-science literature. | [github.com/MasterAI-EAM/Darwin](https://github.com/MasterAI-EAM/Darwin) |
+| Galactica | Meta's 120B scientific language model with weights on Hugging Face and the original model API on GitHub. | [github.com/paperswithcode/galai](https://github.com/paperswithcode/galai) |
+| SciBERT | BERT variant trained on 1.14M scientific papers from Semantic Scholar, still used as a scientific-NLP baseline. | [github.com/allenai/scibert](https://github.com/allenai/scibert) |
+| BioGPT | Microsoft biomedical GPT pretrained on PubMed abstracts, available via Hugging Face Transformers. | [github.com/microsoft/BioGPT](https://github.com/microsoft/BioGPT) |
+| Med-PaLM | Google Research family of medical LLMs evaluated on USMLE-style and clinical-reasoning benchmarks. | [research.google med-palm](https://sites.research.google/med-palm/) |
+| ESM3 | EvolutionaryScale's multimodal protein model for joint sequence, structure, and function generation. | [github.com/evolutionaryscale/esm](https://github.com/evolutionaryscale/esm) |
 
 ---
 
