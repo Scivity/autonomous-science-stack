@@ -200,6 +200,16 @@ Most scientific knowledge is trapped in PDFs with tables, equations, and figures
 
 | Library | Description | Link |
 | --- | --- | --- |
+| Docling | IBM/LF AI open-source document parser with unified DocTags output for PDFs, slides, and images. | [github.com/docling-project/docling](https://github.com/docling-project/docling) |
+| PyMuPDF | Python bindings to MuPDF for PDF parsing, rendering, and text and image extraction. | [github.com/pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) |
+| Crawl4AI | LLM-friendly web crawler that outputs clean markdown and structured data for ingestion. | [github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) |
+| GROBID | Java machine-learning library that structures scholarly PDFs into TEI XML with high accuracy on references. | [github.com/kermitt2/grobid](https://github.com/kermitt2/grobid) |
+| Marker | Fast PDF and office-doc to Markdown/JSON converter with optional LLM-assisted refinement. | [github.com/datalab-to/marker](https://github.com/datalab-to/marker) |
+| Nougat | Meta's vision transformer for converting scientific PDFs to Markdown with equation support. | [github.com/facebookresearch/nougat](https://github.com/facebookresearch/nougat) |
+| Tabula | Java and Python tool for extracting tables from text-based PDFs using layout heuristics. | [github.com/tabulapdf/tabula](https://github.com/tabulapdf/tabula) |
+| Camelot | Python library focused on extracting tables from PDFs with stream and lattice parsers. | [github.com/camelot-dev/camelot](https://github.com/camelot-dev/camelot) |
+| Unstructured | ETL library for partitioning, cleaning, and chunking 25+ document types for LLM pipelines. | [github.com/Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) |
+| pdfplumber | Pure-Python PDF parser with fine-grained access to characters, tables, and layout metadata. | [github.com/jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) |
 
 ---
 
