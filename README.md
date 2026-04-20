@@ -223,7 +223,7 @@ These are models and agent systems specifically designed for scientific reasonin
 | ChemCrow | LangChain-based chemistry agent with 18 tool integrations for synthesis planning and molecule property lookup. | [github.com/ur-whitelab/chemcrow-public](https://github.com/ur-whitelab/chemcrow-public) |
 | Coscientist | GPT-4-driven autonomous chemistry agent from the Gomes group, demonstrated on palladium cross-couplings. | [github.com/gomesgroup/coscientist](https://github.com/gomesgroup/coscientist) |
 | DARWIN | Open 7B foundation model fine-tuned on physics, chemistry, and materials-science literature. | [github.com/MasterAI-EAM/Darwin](https://github.com/MasterAI-EAM/Darwin) |
-| Galactica | Meta's 120B scientific language model with weights on Hugging Face and the original model API on GitHub. | [github.com/paperswithcode/galai](https://github.com/paperswithcode/galai) |
+| Galactica | Meta's 120B scientific language model (2022); publicly retracted shortly after release due to hallucination issues — kept here as historical reference with weights on Hugging Face. | [github.com/paperswithcode/galai](https://github.com/paperswithcode/galai) |
 | SciBERT | BERT variant trained on 1.14M scientific papers from Semantic Scholar, still used as a scientific-NLP baseline. | [github.com/allenai/scibert](https://github.com/allenai/scibert) |
 | BioGPT | Microsoft biomedical GPT pretrained on PubMed abstracts, available via Hugging Face Transformers. | [github.com/microsoft/BioGPT](https://github.com/microsoft/BioGPT) |
 | Med-PaLM | Google Research family of medical LLMs evaluated on USMLE-style and clinical-reasoning benchmarks. | [research.google med-palm](https://sites.research.google/med-palm/) |
