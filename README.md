@@ -83,6 +83,18 @@ These are operational self-driving laboratories and companies — not libraries,
 
 | Project | Description | Link |
 | --- | --- | --- |
+| A-Lab (LBNL / Berkeley) | Autonomous lab for inorganic solid-state synthesis combining robotics, ML, and literature data from the Ceder group. | [ceder.berkeley.edu](https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/) |
+| Emerald Cloud Lab | Commercial cloud lab in Austin with 200+ instruments controlled remotely via a Wolfram-based command language. | [emeraldcloudlab.com](https://www.emeraldcloudlab.com/) |
+| Strateos | Automation-as-a-service cloud lab for drug discovery with programmatic APIs and hybrid on-prem deployments. | [strateos.com](https://strateos.com/) |
+| Chemify | Glasgow-based Chemputation facility that compiles digital code into physical organic-chemistry syntheses. | [chemify.io](https://www.chemify.io/) |
+| Arctoris | Oxford-based fully automated drug discovery platform running assay cascades on the Ulysses robotic system. | [arctoris.com](https://www.arctoris.com/) |
+| LabGenius | London-based closed-loop platform for therapeutic antibody discovery built around the EVA robot. | [labgeniustx.com](https://labgeniustx.com/) |
+| Kebotix | Boston-area self-driving lab for materials discovery combining generative models with robotic synthesis. | [kebotix.com](https://www.kebotix.com) |
+| Atinary | Bayesian-optimization and SDLabs software for closed-loop R&D, integrable with external automation. | [atinary.com](https://atinary.com/) |
+| PNNL Autonomous Science | DOE program applying autonomous-lab methods across chemistry, biology, and energy storage at PNNL. | [pnnl.gov/autonomous-science](https://www.pnnl.gov/autonomous-science) |
+| Lila Sciences | Flagship Pioneering company building closed-loop AI Science Factories across life, chemical, and materials science. | [lila.ai](https://www.lila.ai/) |
+| Argonne Polybot | Autonomous robotic platform for electronic-polymer discovery at Argonne's Center for Nanoscale Materials. | [anl.gov polybot](https://www.anl.gov/article/argonnes-selfdriving-lab-accelerates-the-discovery-process-for-materials-with-multiple-applications) |
+| ARES OS (AFRL) | Open-source orchestration software from the Air Force Research Laboratory for building autonomous experimentation systems. | [github.com/AFRL-ARES/ARES_OS](https://github.com/AFRL-ARES/ARES_OS) |
 
 ---
 
