@@ -303,7 +303,7 @@ When agents can call tools that move real money, compounds, or lab hardware, you
 | Lakera Guard | Commercial real-time API for detecting prompt injection, jailbreaks, and data exfiltration. | [lakera.ai](https://www.lakera.ai/lakera-guard) |
 | Invariant | Rule-based contextual guardrails for LLM and MCP tool-calling deployed as a proxy. | [github.com/invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) |
 | LlamaFirewall | Meta's agent guardrail framework combining PromptGuard 2, alignment checks, and CodeShield. | [github.com/meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall) |
-| PyRIT | Microsoft's Python risk-identification toolkit for automated adversarial testing of generative AI. | [github.com/Azure/PyRIT](https://github.com/Azure/PyRIT) |
+| PyRIT | Microsoft's Python risk-identification toolkit for automated adversarial testing of generative AI. | [github.com/microsoft/PyRIT](https://github.com/microsoft/PyRIT) |
 
 ---
 
