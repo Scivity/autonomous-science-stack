@@ -27,6 +27,7 @@ Maintained by [Scivity Labs](https://scivity.org)
 | [📄 Scientific Data Extraction](#-scientific-data-extraction) | Parsers for PDFs, tables, equations, and scientific figures. |
 | [🧠 LLM for Science](#-llm-for-science) | Models and agent systems purpose-built for scientific discovery. |
 | [🧬 Scientific Simulation & Modeling](#-scientific-simulation--modeling) | Physics-based simulators used as in-silico filters in autonomous-science loops. |
+| [🎯 Bayesian Optimization & Active Learning](#-bayesian-optimization--active-learning) | Decision core of closed-loop autonomous experimentation — picks the next experiment under a budget. |
 | [🔗 RL for Scientific Discovery](#-rl-for-scientific-discovery) | Reinforcement learning libraries applicable to scientific search problems. |
 | [🗄️ Vector Databases & Embeddings](#️-vector-databases--embeddings) | Stores and models for semantic retrieval over scientific corpora. |
 | [📡 Data Pipeline & Event Systems](#-data-pipeline--event-systems) | Message brokers and streaming systems for lab and compute events. |
@@ -248,6 +249,25 @@ LLM-driven science agents reach wet labs faster when they pre-screen candidates 
 | FEniCS / DOLFINx | Python FEM framework for solving PDEs via variational forms in UFL. | [github.com/FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) |
 | Cantera | Chemical kinetics, thermodynamics, and transport library for reactors and combustion. | [github.com/Cantera/cantera](https://github.com/Cantera/cantera) |
 | deal.II | C++ finite element library with Python bindings for adaptive-mesh PDE solvers. | [github.com/dealii/dealii](https://github.com/dealii/dealii) |
+
+---
+
+## 🎯 Bayesian Optimization & Active Learning
+
+BO/AL is the decision core of closed-loop autonomous experimentation — given what has been observed so far, pick the next experiment to run under a limited budget. The libraries split along two lines: Gaussian-process-based frameworks (BoTorch, GPyTorch, Emukit, Trieste) that shine on smooth, low-dimensional design spaces, and algorithm-agnostic optimizers (Nevergrad, SMAC3, Hyperopt, Vizier) that scale to high-dimensional or conditional search spaces.
+
+| Library | Description | Link |
+| --- | --- | --- |
+| BoTorch | PyTorch library for Bayesian optimization with Monte Carlo acquisition functions. | [github.com/pytorch/botorch](https://github.com/pytorch/botorch) |
+| Ax | Meta platform built on BoTorch for adaptive experimentation and closed-loop tuning. | [github.com/facebook/Ax](https://github.com/facebook/Ax) |
+| GPyTorch | Scalable Gaussian processes in PyTorch; the GP backbone underneath BoTorch. | [github.com/cornellius-gp/gpytorch](https://github.com/cornellius-gp/gpytorch) |
+| Emukit | Decision-making toolbox covering BO, experimental design, and sensitivity analysis. | [github.com/EmuKit/emukit](https://github.com/EmuKit/emukit) |
+| Hyperopt | Distributed hyperparameter optimization using Tree-structured Parzen Estimators. | [github.com/hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) |
+| SMAC3 | Sequential model-based algorithm configuration for AutoML and black-box tuning. | [github.com/automl/SMAC3](https://github.com/automl/SMAC3) |
+| Nevergrad | Gradient-free optimization platform with evolutionary and population-based algorithms. | [github.com/facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) |
+| Trieste | TensorFlow/GPflow-based BO library with trust-region and multi-fidelity strategies. | [github.com/secondmind-labs/trieste](https://github.com/secondmind-labs/trieste) |
+| Vizier | Open-source release of Google's internal black-box optimization service. | [github.com/google/vizier](https://github.com/google/vizier) |
+| scikit-activeml | Active learning library with pool-based query strategies on scikit-learn models. | [github.com/scikit-activeml/scikit-activeml](https://github.com/scikit-activeml/scikit-activeml) |
 
 ---
 
