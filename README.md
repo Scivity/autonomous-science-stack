@@ -26,6 +26,7 @@ Maintained by [Scivity Labs](https://scivity.org)
 | [📚 Scientific Knowledge Management](#-scientific-knowledge-management) | Literature APIs, reference managers, and citation graph tools. |
 | [📄 Scientific Data Extraction](#-scientific-data-extraction) | Parsers for PDFs, tables, equations, and scientific figures. |
 | [🧠 LLM for Science](#-llm-for-science) | Models and agent systems purpose-built for scientific discovery. |
+| [🧬 Scientific Simulation & Modeling](#-scientific-simulation--modeling) | Physics-based simulators used as in-silico filters in autonomous-science loops. |
 | [🔗 RL for Scientific Discovery](#-rl-for-scientific-discovery) | Reinforcement learning libraries applicable to scientific search problems. |
 | [🗄️ Vector Databases & Embeddings](#️-vector-databases--embeddings) | Stores and models for semantic retrieval over scientific corpora. |
 | [📡 Data Pipeline & Event Systems](#-data-pipeline--event-systems) | Message brokers and streaming systems for lab and compute events. |
@@ -228,6 +229,25 @@ These are models and agent systems specifically designed for scientific reasonin
 | BioGPT | Microsoft biomedical GPT pretrained on PubMed abstracts, available via Hugging Face Transformers. | [github.com/microsoft/BioGPT](https://github.com/microsoft/BioGPT) |
 | Med-PaLM | Google Research family of medical LLMs evaluated on USMLE-style and clinical-reasoning benchmarks. | [research.google med-palm](https://sites.research.google/med-palm/) |
 | ESM3 | EvolutionaryScale's multimodal protein model for joint sequence, structure, and function generation. | [github.com/evolutionaryscale/esm](https://github.com/evolutionaryscale/esm) |
+
+---
+
+## 🧬 Scientific Simulation & Modeling
+
+LLM-driven science agents reach wet labs faster when they pre-screen candidates in silico. The libraries here solve physics-based problems — molecular dynamics, electronic structure, finite-element PDEs, reaction kinetics — cheaply enough to rank thousands of hypotheses before committing reagent or instrument time in an autonomous loop.
+
+| Library | Description | Link |
+| --- | --- | --- |
+| LAMMPS | Classical molecular dynamics engine scaling from single workstations to GPU supercomputers. | [github.com/lammps/lammps](https://github.com/lammps/lammps) |
+| GROMACS | Biomolecular MD package optimized for proteins, lipids, and drug-binding free-energy work. | [github.com/gromacs/gromacs](https://github.com/gromacs/gromacs) |
+| PySCF | Python quantum chemistry package covering Hartree-Fock, DFT, MP2, and coupled cluster. | [github.com/pyscf/pyscf](https://github.com/pyscf/pyscf) |
+| Psi4 | Open-source quantum chemistry program with a Python API for electronic-structure methods. | [github.com/psi4/psi4](https://github.com/psi4/psi4) |
+| ASE | Python toolkit wrapping 30+ DFT and MD calculators behind a uniform Atoms object. | [gitlab.com/ase/ase](https://gitlab.com/ase/ase) |
+| RDKit | Cheminformatics toolkit for molecular descriptors, substructure search, and SMARTS filters. | [github.com/rdkit/rdkit](https://github.com/rdkit/rdkit) |
+| OpenMM | GPU-accelerated biomolecular MD engine with a first-class Python scripting API. | [github.com/openmm/openmm](https://github.com/openmm/openmm) |
+| FEniCS / DOLFINx | Python FEM framework for solving PDEs via variational forms in UFL. | [github.com/FEniCS/dolfinx](https://github.com/FEniCS/dolfinx) |
+| Cantera | Chemical kinetics, thermodynamics, and transport library for reactors and combustion. | [github.com/Cantera/cantera](https://github.com/Cantera/cantera) |
+| deal.II | C++ finite element library with Python bindings for adaptive-mesh PDE solvers. | [github.com/dealii/dealii](https://github.com/dealii/dealii) |
 
 ---
 
